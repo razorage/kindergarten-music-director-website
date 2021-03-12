@@ -1,0 +1,39 @@
+h2{
+    color: red;
+}
+h3{
+    color: blue;
+}
+td{
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 20px;
+}
+table {
+    border-collapse: collapse;
+    border: 1px solid #7f7f7f;
+}
+a{
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    background-color: #303036;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 200px;
+    text-align: center;
+}
+input[type="text"],option{
+    width: 360px;
+    height: 25px;
+}
+input[type="submit"],button{
+    background-color: #303036;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 200px;
+    text-align: center;
+    cursor: pointer;
+}

@@ -1,0 +1,30 @@
+Иконки
+<!--PowePoint-->
+<img src="https://img.icons8.com/fluent/30/000000/microsoft-powerpoint-2019.png"/>
+
+<!--Excel-->
+<img src="https://img.icons8.com/color/30/000000/microsoft-excel-2019--v1.png"/>  
+
+<!--Word-->
+<img src="https://img.icons8.com/fluent/30/000000/microsoft-word-2019.png"/> 
+
+<!--pdf-->  
+<img src="https://img.icons8.com/color/30/000000/pdf.png"/>  
+
+<!--zip-->
+<img src="https://img.icons8.com/fluent/30/000000/zip.png"/> 
+
+Категория для файлов
+childerWithTrouble - дети с пробелмами здоровья
+MusicDidactGames - музыкально дидактические игры
+workParentWithPedagogos - работа с родителями и педагогами
+MethodKopilka - методическая копилка
+goodHand - очень умелые ручки
+LabArt - Авторская лаборатория творчества
+
+Категория для видео
+videoClips - видеоклипы
+childrenTeatr - детский театр
+bravoChildren - Браво, дети
+
+/admin/51Hiu7Be06
